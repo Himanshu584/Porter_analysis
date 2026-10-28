@@ -4,13 +4,11 @@
 
 A food-delivery operations analytics case study exploring **where delivery delays occur**, how performance varies across markets and demand periods, and which operational improvements are worth investigating.
 
-> **Portfolio project:** An independent analysis of a public food-delivery dataset. Findings and recommendations are analytical interpretations, not official Porter company results.
-
 ## Dashboard Preview
 
 ![Porter Delivery Analytics Dashboard](Dashboard_Screenshot.png)
 
-*Add your dashboard screenshot as `Dashboard_Screenshot.png` in the repository root to display the preview.*
+
 
 ## At a Glance
 
