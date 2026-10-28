@@ -6,7 +6,7 @@ A food-delivery operations analytics case study exploring **where delivery delay
 
 ## Dashboard Preview
 
-![Porter Delivery Analytics Dashboard]([Dashboard_Screenshot.png](https://github.com/Himanshu584/Porter_analysis/blob/main/dashboard_screenshot.png))
+![Porter Delivery Analytics Dashboard](https://github.com/Himanshu584/Porter_analysis/blob/main/dashboard_screenshot.png)
 
 
 
